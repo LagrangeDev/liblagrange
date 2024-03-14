@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+.vs/
+
+build/
+out/
+
+.DS_Store
+*/.DS_Store

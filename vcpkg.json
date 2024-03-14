@@ -1,0 +1,12 @@
+{
+  "name": "libhamilton",
+  "version": "1.0.0",
+  "license": "GPL-3.0-or-later",
+  "builtin-baseline": "000d1bda1ffa95a73e0b40334fa4103d6f4d3d48",
+  "documentation": "Libhamilton is a modern cpp module which implement Lagrange.Core",
+  "dependencies": [
+    "boost-asio", "boost-beast",
+    "boost-log", "boost-json", "boost-test", "boost-uuid",
+    "cryptopp"
+  ]
+}
