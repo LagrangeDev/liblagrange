@@ -1,0 +1,7 @@
+{
+  "name" : "lagrange",
+  "version-string" : "0.0.1",
+  "description": "A modern cpp library project to implement oicq protocol. From Lagrange.Core.",
+  "license": "GPL-3.0",
+  "dependencies" : [ "stdexec", "spdlog", "cryptopp" ]
+}
